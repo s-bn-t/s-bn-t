@@ -12,7 +12,7 @@
        WM  :  i3
     Shell  :  zsh
  Terminal  :  st
-      CPU  :  Intel i7-6500 (4) @ 3.100GHz
+      CPU  :  Intel i7-7700K (8) @ 4.500GHz
     Alias  :  cruel
 Languages  :  C#,Python,JavaS,PHP
   Discord  :  834514231125999646
