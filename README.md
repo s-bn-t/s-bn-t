@@ -30,4 +30,4 @@ Languages  :  C#,Python,JavaS,PHP
 ---
 
 ![](https://komarev.com/ghpvc/?username=Phew&style=flat-square)
-<p style="font-size: 6px">README inspired by <a href="https://github.com/Phew">cs</a></p>
+<p style="font-size: 6px">README inspired by <a href="https://github.com/Phew">Phew</a></p>
