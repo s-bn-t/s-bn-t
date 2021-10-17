@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/834673124510662676/899360625975771146/imgbin-arch-linux-logo-olinuxino-linux-j4mNehzgRSs0PAfB8Ck8f6PK1.jpg" alt="logo.png" width="200" /> 
 
 ```csharp
 0x846@github
@@ -14,7 +14,7 @@
  Terminal  :  st
       CPU  :  Intel i7-6500 (4) @ 3.100GHz
     Alias  :  cruel
-Languages  :  C,Python,Java,PHP
+Languages  :  C#,Python,JavaS,PHP
   Discord  :  834514231125999646
 ```
 
