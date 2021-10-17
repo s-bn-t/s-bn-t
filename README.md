@@ -5,17 +5,17 @@
 <img align="left" src="https://raw.githubusercontent.com/ecriminal/ecriminal/main/assets/cannabis.png" alt="logo.png" width="200" /> 
 
 ```csharp
-ecriminal@github
+0x846@github
 ----------------
 
-       OS  :  macOS arm64
-       WM  :  yabai
-    Shell  :  zsh 5.8
- Terminal  :  iTerm2
-      CPU  :  Apple M1
-    Alias  :  cs/checksum
-Languages  :  C, Go, PHP, Python, Java
-  Discord  :  806059275678908418
+       OS  :  Arch Linux x86_64
+       WM  :  i3
+    Shell  :  zsh
+ Terminal  :  st
+      CPU  :  Intel i7-6500 (4) @ 3.100GHz
+    Alias  :  cruel
+Languages  :  C,Python,Java,PHP
+  Discord  :  834514231125999646
 ```
 
 <p align="left">
