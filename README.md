@@ -11,10 +11,10 @@
        OS  :  Arch Linux x86_64
        WM  :  i3
     Shell  :  zsh
- Terminal  :  st
-      CPU  :  Intel i7-7700K (8) @ 4.500GHz
+ Terminal  :  alacritty
+      CPU  :  AMD Ryzen 7 3700x (2) @ 3.599GHz
     Alias  :  cruel
-Languages  :  C#,Python,JavaS,PHP
+Languages  :  C,Python,JavaS,PHP
   Discord  :  834514231125999646
 ```
 
