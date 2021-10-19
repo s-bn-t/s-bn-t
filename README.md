@@ -10,7 +10,7 @@
 
        OS  :  Arch Linux x86_64
        WM  :  i3
-    Shell  :  zsh
+    Shell  :  bash
  Terminal  :  alacritty
       CPU  :  AMD Ryzen 7 3700x (2) @ 3.599GHz
     Alias  :  cruel
