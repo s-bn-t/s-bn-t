@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://cdn.discordapp.com/attachments/834673124510662676/899361441193295872/a1595ac7551ca009085e7c81b7958f9b.jpg" alt="logo.png" width="200" /> 
+<img align="left" src="https://cdn.discordapp.com/attachments/834673124510662676/901164596377817168/68747470733a2f2f6f7268756e2e6465762f696d672f63726f772e706e67.png" alt="logo.png" width="200" /> 
 
 ```csharp
 s-bn-t@github
