@@ -5,7 +5,7 @@
 <img align="left" src="https://cdn.discordapp.com/attachments/834673124510662676/899361441193295872/a1595ac7551ca009085e7c81b7958f9b.jpg" alt="logo.png" width="200" /> 
 
 ```csharp
-0x846@github
+s-bn-t@github
 ----------------
 
        OS  :  Arch Linux x86_64
